@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+.p {
+	color: darkcyan;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 20px;
+	background-color:rgba(248,248,255,0.2);
+	border:1px solid rgba(153,145,145,1.00);
+	padding: 10px;
+}
+
+p {
+	color: black;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	line-height: 20px;
+}
+
+.okvir2{
+	color: rgba(10,105,105,1.00);
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 20px;
+	background-color:rgba(248,248,255,0.2);
+	border:1px solid rgba(153,145,145,1.00);
+}
+
+q{
+	color: darkorange;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 20px;
+	font-weight:bold;
+}
+
+body { 
+    background-image: url("slike/pozadina1.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;	
+    background-attachment: fixed;
+}
+
+a:link{ 
+	color: darkslategrey;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-color:rgba(115,186,185,0.50);
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+	border-radius: 2px;
+}
+
+a:hover{ 
+	color: darkorange;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-color:rgba(219,233,233,0.50);
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+	border-radius: 2px;
+}
+
+img{
+	height: 300px;
+	width: 400px;
+}
+
+.img2{
+	width: 265px;
+	height: auto;
+}
+
+
+h1{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	text-align: center;
+	font-weight:bolder;
+}
+
+h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	font-weight:bold;
+}
+
+ol, ul{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 20px;
+}
+
+
